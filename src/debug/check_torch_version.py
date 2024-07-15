@@ -19,7 +19,8 @@ compatibility_matrix = {
     "2.1.0": ["0.16.0"],
     "2.1.1": ["0.16.1"],
     "2.1.2": ["0.16.2"],
-    
+
+    "2.2.0": ["0.17.0"],
     # 최신 버전 추가 필요 https://github.com/pytorch/vision#installation
 } 
 
